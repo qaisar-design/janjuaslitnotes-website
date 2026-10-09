@@ -23,6 +23,10 @@ var AMAZON = {
   "hamlet": {                    /* Hamlet: Exam Edition */
     paperback: "",
     kindle:    ""
+  },
+  "macbeth": {                   /* Macbeth: Exam Edition */
+    paperback: "",
+    kindle:    ""
   }
 };
 /* ======================= end of AMAZON LINKS ============================ */
