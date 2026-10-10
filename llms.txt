@@ -18,7 +18,7 @@ Status: three books are ready and coming soon on Amazon as a paperback (6 x 9 in
 - Twelve model essays on the questions examiners set most often, each with a marked shorter version.
 - Practice questions, one-line facts, a bank of key quotations or passages and a last-night checklist.
 - Original drawings of every character, in one house style.
-- Every quotation and line number is checked against the source edition.
+- The original texts are public-domain editions (Skeat, Oxford, 1900; the Cambridge Shakespeare, 1865 and 1866), with obvious misprints corrected. Every quotation and line number is checked against the book's text.
 
 ## Free samples
 
@@ -40,6 +40,7 @@ Status: three books are ready and coming soon on Amazon as a paperback (6 x 9 in
 - [Corrections](https://www.janjuaslitnotes.com/corrections/): every confirmed error is listed here and fixed in the next printing. First editions: no corrections yet.
 - [About Qaisar Iqbal Janjua](https://www.janjuaslitnotes.com/about/): he has written notes for literature students for many years and is relaunching his series as Janjua's English Lit Notes, one book at a time, each rebuilt from the original text.
 - [Contact](https://www.janjuaslitnotes.com/contact/): qaisar@janjuaslitnotes.com
+- [Privacy and legal notices](https://www.janjuaslitnotes.com/privacy/): no cookies, analytics or tracking; an email is used only for what the sender asked; copyright, public-domain texts, critics' quotations and AI use (AI tools were used in preparing the books, and every quotation, line number, fact and answer was then checked).
 
 ## Optional
 
