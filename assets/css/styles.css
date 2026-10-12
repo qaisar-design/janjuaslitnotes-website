@@ -1210,3 +1210,25 @@ h1 .h1-main{display:block}
 .legal .updated{margin-top:40px;font-family:var(--font-ui);font-size:.9rem;color:var(--ink-mute)}
 .foot-bottom a{color:#A9B3C2;text-decoration:underline;text-underline-offset:3px}
 .foot-bottom a:hover{color:#fff}
+
+/* ---------- FOUR BOOKS (King Lear, Book 4; additions only) ---------- */
+/* home hero: the four covers in two rows of two, the right-hand column set a little lower */
+.hero-books.n4{grid-template-columns:1fr 1fr;gap:12px 20px;max-width:440px}
+.hero-books.n4 .hb:nth-child(1) .cover{transform:rotate(-2deg)}
+.hero-books.n4 .hb:nth-child(2) .cover{transform:rotate(2deg) translateY(18px)}
+.hero-books.n4 .hb:nth-child(3) .cover{transform:rotate(1.5deg)}
+.hero-books.n4 .hb:nth-child(4) .cover{transform:rotate(-1.5deg) translateY(18px)}
+.hero-books.n4 .hb:nth-child(4) .hb-cap{margin-top:34px}
+.hero-books.n4 .hb:hover .cover{transform:translateY(-6px) rotate(0)}
+.hero-books.n4 .hb-cap{font-size:.62rem;letter-spacing:.1em}
+/* the comparison table with four books: the table scrolls; on phones each book keeps the column width it had beside one other book */
+.ftable.cols4{min-width:820px}
+.ftable.cols4 tbody th{width:22%}
+@media(max-width:759px){
+  .ftable.cols4{min-width:914px}
+  .ftable.cols4 tbody th{width:15%}
+}
+/* the modern paragraph after a prose speech, in the free sample unit */
+.playtext .pair.prose{margin-bottom:2px}
+.playtext .pair.prose .me{margin:0}
+.playtext .mop{font-family:var(--font-ui);font-size:.95rem;line-height:1.45;color:var(--ink-mute);margin:6px 0 16px 36px;padding-left:10px;border-left:3px solid var(--line-soft)}

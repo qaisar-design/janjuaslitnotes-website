@@ -18,13 +18,17 @@
 var AMAZON = {
   "general-prologue": {          /* The General Prologue: Exam Edition */
     paperback: "",               /* e.g. "https://www.amazon.com/dp/XXXXXXXXXX" */
-    kindle:    ""
+    kindle:    "https://www.amazon.com/dp/B0HMRCQ57Y"
   },
   "hamlet": {                    /* Hamlet: Exam Edition */
     paperback: "",
-    kindle:    ""
+    kindle:    "https://www.amazon.com/dp/B0HMRDSDKR"
   },
   "macbeth": {                   /* Macbeth: Exam Edition */
+    paperback: "",
+    kindle:    ""
+  },
+  "king-lear": {                 /* King Lear: Exam Edition */
     paperback: "",
     kindle:    ""
   }
