@@ -26,11 +26,11 @@ var AMAZON = {
   },
   "macbeth": {                   /* Macbeth: Exam Edition */
     paperback: "",
-    kindle:    ""
+    kindle:    "https://www.amazon.com/dp/B0H1KB3V32"
   },
   "king-lear": {                 /* King Lear: Exam Edition */
     paperback: "",
-    kindle:    ""
+    kindle:    "https://www.amazon.com/dp/B0HCTNZLLX"
   }
 };
 /* ======================= end of AMAZON LINKS ============================ */
