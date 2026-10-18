@@ -12,6 +12,8 @@
     <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-hamlet.jpg</image:loc></image:image>
     <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-macbeth.jpg</image:loc></image:image>
     <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-king-lear.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-romeo-and-juliet.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-othello.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.janjuaslitnotes.com/books/general-prologue-study-guide/</loc>
@@ -34,11 +36,29 @@
     <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-king-lear.jpg</image:loc></image:image>
   </url>
   <url>
+    <loc>https://www.janjuaslitnotes.com/books/romeo-and-juliet-study-guide/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-romeo-and-juliet.jpg</image:loc></image:image>
+  </url>
+  <url>
+    <loc>https://www.janjuaslitnotes.com/books/othello-study-guide/</loc>
+    <lastmod>2026-10-17</lastmod>
+    <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-othello.jpg</image:loc></image:image>
+  </url>
+  <url>
     <loc>https://www.janjuaslitnotes.com/books/macbeth-study-guide/sample/</loc>
     <lastmod>2026-10-17</lastmod>
   </url>
   <url>
     <loc>https://www.janjuaslitnotes.com/books/king-lear-study-guide/sample/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.janjuaslitnotes.com/books/romeo-and-juliet-study-guide/sample/</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.janjuaslitnotes.com/books/othello-study-guide/sample/</loc>
     <lastmod>2026-10-17</lastmod>
   </url>
   <url>
@@ -56,6 +76,8 @@
     <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-hamlet.jpg</image:loc></image:image>
     <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-macbeth.jpg</image:loc></image:image>
     <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-king-lear.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-romeo-and-juliet.jpg</image:loc></image:image>
+    <image:image><image:loc>https://www.janjuaslitnotes.com/assets/img/cover-othello.jpg</image:loc></image:image>
   </url>
   <url>
     <loc>https://www.janjuaslitnotes.com/coming-next/</loc>
@@ -91,6 +113,14 @@
   </url>
   <url>
     <loc>https://www.janjuaslitnotes.com/downloads/king-lear-study-guide-free-sample.pdf</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.janjuaslitnotes.com/downloads/romeo-and-juliet-study-guide-free-sample.pdf</loc>
+    <lastmod>2026-10-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.janjuaslitnotes.com/downloads/othello-study-guide-free-sample.pdf</loc>
     <lastmod>2026-10-17</lastmod>
   </url>
 </urlset>

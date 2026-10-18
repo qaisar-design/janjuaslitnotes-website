@@ -31,6 +31,14 @@ var AMAZON = {
   "king-lear": {                 /* King Lear: Exam Edition */
     paperback: "",
     kindle:    "https://www.amazon.com/dp/B0HCTNZLLX"
+  },
+  "romeo-and-juliet": {          /* Romeo and Juliet: Exam Edition */
+    paperback: "",
+    kindle:    "https://www.amazon.com/dp/B0HNF7CMFK"
+  },
+  "othello": {                   /* Othello: Exam Edition */
+    paperback: "",
+    kindle:    "https://www.amazon.com/dp/B0HNF9JRFC"
   }
 };
 /* ======================= end of AMAZON LINKS ============================ */
