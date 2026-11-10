@@ -39,6 +39,10 @@ var AMAZON = {
   "othello": {                   /* Othello: Exam Edition */
     paperback: "",
     kindle:    "https://www.amazon.com/dp/B0HNF9JRFC"
+  },
+  "a-christmas-carol": {         /* A Christmas Carol: Exam Edition (not on Amazon yet) */
+    paperback: "",
+    kindle:    ""
   }
 };
 /* ======================= end of AMAZON LINKS ============================ */

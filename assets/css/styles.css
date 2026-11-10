@@ -1252,3 +1252,29 @@ h1 .h1-main{display:block}
   .ftable.cols6{min-width:1380px}
   .ftable.cols6 tbody th{width:10%}
 }
+
+/* ---------- SEVEN BOOKS (A Christmas Carol, Book 7; additions only) ---------- */
+/* home hero: seven covers, four in the top row and three centred under them, the second and fourth set a little lower */
+.hero-books.n7{grid-template-columns:repeat(8,1fr);gap:14px 10px;max-width:600px}
+.hero-books.n7 .hb{grid-column:span 2}
+.hero-books.n7 .hb:nth-child(5){grid-column:2 / span 2}
+.hero-books.n7 .hb:nth-child(1) .cover{transform:rotate(-2deg)}
+.hero-books.n7 .hb:nth-child(2) .cover{transform:rotate(1.5deg) translateY(14px)}
+.hero-books.n7 .hb:nth-child(3) .cover{transform:rotate(2deg)}
+.hero-books.n7 .hb:nth-child(4) .cover{transform:rotate(-1.5deg) translateY(14px)}
+.hero-books.n7 .hb:nth-child(5) .cover{transform:rotate(1.5deg)}
+.hero-books.n7 .hb:nth-child(6) .cover{transform:rotate(-1.5deg) translateY(14px)}
+.hero-books.n7 .hb:nth-child(7) .cover{transform:rotate(2deg)}
+.hero-books.n7 .hb .hb-cap{margin-top:12px;font-size:.5rem;letter-spacing:.05em}
+.hero-books.n7 .hb:nth-child(2) .hb-cap,.hero-books.n7 .hb:nth-child(4) .hb-cap,.hero-books.n7 .hb:nth-child(6) .hb-cap{margin-top:26px}
+.hero-books.n7 .hb:hover .cover{transform:translateY(-6px) rotate(0)}
+@media(min-width:760px){
+  .hero-books.n7 .hb-cap{font-size:.56rem;letter-spacing:.07em}
+}
+/* the comparison table with seven books: the table scrolls */
+.ftable.cols7{min-width:1320px}
+.ftable.cols7 tbody th{width:12%}
+@media(max-width:759px){
+  .ftable.cols7{min-width:1600px}
+  .ftable.cols7 tbody th{width:9%}
+}
