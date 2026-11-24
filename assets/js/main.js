@@ -43,6 +43,10 @@ var AMAZON = {
   "a-christmas-carol": {         /* A Christmas Carol: Exam Edition (not on Amazon yet) */
     paperback: "",
     kindle:    ""
+  },
+  "jekyll-and-hyde": {           /* Strange Case of Dr Jekyll and Mr Hyde: Exam Edition (not on Amazon yet) */
+    paperback: "",
+    kindle:    ""
   }
 };
 /* ======================= end of AMAZON LINKS ============================ */
