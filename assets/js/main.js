@@ -40,9 +40,9 @@ var AMAZON = {
     paperback: "",
     kindle:    "https://www.amazon.com/dp/B0HNF9JRFC"
   },
-  "a-christmas-carol": {         /* A Christmas Carol: Exam Edition (not on Amazon yet) */
+  "a-christmas-carol": {         /* A Christmas Carol: Exam Edition */
     paperback: "",
-    kindle:    ""
+    kindle:    "https://www.amazon.com/dp/B0HR4YQ9P4"
   },
   "jekyll-and-hyde": {           /* Strange Case of Dr Jekyll and Mr Hyde: Exam Edition (not on Amazon yet) */
     paperback: "",
