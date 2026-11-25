@@ -44,7 +44,7 @@ var AMAZON = {
     paperback: "",
     kindle:    "https://www.amazon.com/dp/B0HR4YQ9P4"
   },
-  "jekyll-and-hyde": {           /* Strange Case of Dr Jekyll and Mr Hyde: Exam Edition (not on Amazon yet) */
+  "jekyll-and-hyde": {           /* Strange Case of Dr Jekyll and Mr Hyde: Exam Edition (available on Amazon; add the product link here when known) */
     paperback: "",
     kindle:    ""
   }
