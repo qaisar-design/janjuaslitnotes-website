@@ -10,7 +10,7 @@
 /* ==========================================================================
    AMAZON LINKS  —  THE ONE PLACE TO SWITCH EACH BOOK TO "BUY ON AMAZON"
    --------------------------------------------------------------------------
-   While a link is "" the site shows "Available on Amazon" and the
+   While a link is "" the site shows "Coming soon on Amazon" and the
    "Tell me when it is out" form. Paste the full Amazon product page URL
    between the quotes and every buy box and status label for that book,
    on every page, switches to real "Buy on Amazon" buttons.
