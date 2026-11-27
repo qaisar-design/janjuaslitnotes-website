@@ -44,7 +44,11 @@ var AMAZON = {
     paperback: "",
     kindle:    "https://www.amazon.com/dp/B0HR4YQ9P4"
   },
-  "jekyll-and-hyde": {           /* Strange Case of Dr Jekyll and Mr Hyde: Exam Edition (available on Amazon; add the product link here when known) */
+  "jekyll-and-hyde": {           /* Strange Case of Dr Jekyll and Mr Hyde: Exam Edition */
+    paperback: "",
+    kindle:    "https://www.amazon.com/dp/B0HSR815GZ"
+  },
+  "paradise-lost": {             /* Paradise Lost, Book I: Exam Edition (not on Amazon yet) */
     paperback: "",
     kindle:    ""
   }
